@@ -73,15 +73,7 @@ namespace TiimeKeeping
             } else {
                 Console.WriteLine("You Are not Late");
             }
-            
-              
-
-
-
-
-
-
-        
+           
         }
     }
 }
